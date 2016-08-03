@@ -1,0 +1,18 @@
+.project
+*.DS_Store
+
+_site
+*.swp
+pkg/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#MISC
+.bundle
+.sass-cache
