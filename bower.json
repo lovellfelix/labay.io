@@ -1,0 +1,22 @@
+{
+  "name": "labay.io",
+  "homepage": "http://labay.io",
+  "authors": [
+    "Lovell Felix <lovell.felix@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "Apache License 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
