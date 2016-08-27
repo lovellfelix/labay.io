@@ -131,6 +131,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  sass
 
 BUNDLED WITH
    1.12.5
