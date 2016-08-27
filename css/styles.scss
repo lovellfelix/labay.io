@@ -2,8 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// Imports
+/* IMPORT CSS FILES */
+@import "../lib/bootstrap-sass/assets/stylesheets/_bootstrap";
 @import "base";
-// @import "type";
-// @import "code";
-// @import "layout";
+// lib/bootstrap-sass/assets/stylesheets/_bootstrap.scss
