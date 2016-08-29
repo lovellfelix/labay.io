@@ -1,7 +1,7 @@
 highlighter:         pygments
 
 # Setup
-title:               La Bay
+title:               LaBay
 tagline:             Nothing to see here
 url:                 https://labay.io/
 baseurl:             /
