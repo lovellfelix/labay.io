@@ -11,17 +11,23 @@ html {
 
 body {
     margin-bottom: 60px;
+    background: #f6f8f8;
+    color: #5b666d;
+    background-color: #f2f5f9;
 }
+
+
 
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     border-color: #e0e5e6;
-    background: #f6f8f8;
+    background: #fafafa;
     font-size: 13px;
     text-align: center;
-    border-top: 1px solid #e8e8e8;
+    border-top: 2px solid #e0e5e6;
+
 }
 
 body > .container {
@@ -35,6 +41,11 @@ body > .container {
 .brand-title {
     font-family: 'TheGreatEscape', sans-serif;
     font-weight: 800;
+    color: #777;
+}
+
+.navbar .transparent .navbar-inner {
+  background: none;
 }
 
 .footer > .container {
@@ -47,8 +58,4 @@ hr.soften {
     margin: 20px 0;
     background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0), rgba(0, 0, 0, .1), rgba(0, 0, 0, 0));
     border: 0;
-}
-
-code {
-    font-size: 80%;
 }
